@@ -1,4 +1,4 @@
 # Teste
 Repositório para testes.
 
-Novo teste.
+Novos testes.
